@@ -1,0 +1,47 @@
+h3
+	{
+		color: darkblue;
+		font-size: 30px;
+		font-family: Arial;
+	}
+p
+{
+	color:black;
+	font-size: 20px;
+	text-indent:30px;
+	font-family: arial; 
+	line-height: 200%
+}
+h6
+	{
+		color: blue;
+		
+		font-family: Arial;
+
+	}
+	h4
+	{
+		color: green;
+		
+		font-family: Arial;
+	}
+	table{
+	border:3px solid black;
+}
+td
+{
+	border:2px solid black;
+}
+tr
+
+{
+	border:8px solid black;
+}
+h5
+	{
+		color: green;
+		font-size: 30px;
+		font-family: Arial;
+	}
+p
+.table-content{width: 870px;margin-bottom:20px; }
